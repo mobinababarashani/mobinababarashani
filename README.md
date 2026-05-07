@@ -13,8 +13,6 @@
 
 ### Connect with me:
 
-### Connect with me:
-
 <p align="left">
   <a href="https://github.com/mobinababarashani" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="40" style="margin-right: 10px;" />
