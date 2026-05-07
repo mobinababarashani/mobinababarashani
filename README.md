@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mobina Babarashani
 
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width=200 height=140 />
 
 
 ### AI Developer
