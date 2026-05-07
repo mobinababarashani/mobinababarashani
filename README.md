@@ -1,5 +1,8 @@
 # Hi 👋, I'm Mobina Babarashani
 
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
+
+
 ### AI Developer
 
 - 🌱 I'm currently learning **FastAPI & Deep Learning**
@@ -7,22 +10,17 @@
 - 📫 How to reach me: **mobinababarashani@gmail.com**
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
 
 ### Connect with me:
 
 <p align="left">
-  <a href="https://github.com/mobinababarashani" target="_blank">
+  <a href="https://github.com/mobinababarashani" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
-</p>
-<p align="left">
-  <a href="https://linkedin.com/in/mobina-babarashani" target="_blank">
+  <a href="https://www.linkedin.com/in/mobina-babarashani/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-</p>
-<p align="left">
-  <a href="https://kaggle.com/mobinababarashani" target="_blank">
+  <a href="https://kaggle.com/mobinababarashani" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" />
   </a>
 </p>
